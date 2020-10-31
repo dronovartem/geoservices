@@ -1,2 +1,2 @@
 # geoservices
-exercises from autogis and geodata course
+homework of geoservices course in made.mail.ru
